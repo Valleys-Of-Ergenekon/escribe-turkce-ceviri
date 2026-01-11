@@ -1,0 +1,1131 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Escribe Turkish Translation\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Turkce Yama\n"
+"Language-Team: Turkish\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.8\n"
+
+msgctxt "Translation"
+msgid "Language"
+msgstr "Türkçe"
+
+msgid "X-language translation by Y."
+msgstr "X dili çevirisi Y."
+
+#. standard
+msgid "OK"
+msgstr "Tamam"
+
+msgid "Cancel"
+msgstr "İptal et"
+
+#. menus
+msgid "&File"
+msgstr "&Dosya"
+
+msgid "&New (Reset to Evolv Standard)"
+msgstr "&Yeni (Evolv Standardına Sıfırla)"
+
+msgid "&Open..."
+msgstr "&Açık..."
+
+msgid "&Save"
+msgstr "&Kaydet"
+
+msgid "Save &As..."
+msgstr "&Farklı Kaydet..."
+
+msgid "E&xit"
+msgstr "Çıkış"
+
+msgid "&Edit"
+msgstr "&Düzenle"
+
+msgid "&Undo"
+msgstr "&Geri Al"
+
+msgid "&Redo"
+msgstr "&Yinele"
+
+msgid "&Internet"
+msgstr "&İnternet"
+
+msgid "&Log in..."
+msgstr "&Giriş yap..."
+
+msgid "E-mail:"
+msgstr "E-posta:"
+
+msgid "Password:"
+msgstr "Şifre:"
+
+msgid "My Account"
+msgstr "Hesabım"
+
+msgid "Register"
+msgstr "Kayıt ol"
+
+msgid "Login"
+msgstr "Giriş yap"
+
+msgid "Log &out"
+msgstr "Oturumu kapat"
+
+msgid "&Options"
+msgstr "&Seçenekler"
+
+msgid "Automatically Check for &Updates"
+msgstr "&Güncellemeleri Otomatik Olarak Kontrol Et"
+
+msgid "Clear Recent Files List"
+msgstr "Son Dosyalar Listesini Temizle"
+
+msgid "&Connect..."
+msgstr "&Bağla..."
+
+msgid "Dis&connect"
+msgstr "&Bağlantıyı kes"
+
+msgid "&Tools"
+msgstr "&Aletler"
+
+msgid "&Calculator"
+msgstr "&Hesap Makinesi"
+
+msgid "Calculator"
+msgstr "Hesap Makinesi"
+
+msgid "Results"
+msgstr "Sonuçlar"
+
+msgid "Equation"
+msgstr "Denklem"
+
+msgid "Calculate"
+msgstr "Hesaplama"
+
+msgid "&Production Utility"
+msgstr "&Üretim Yardımcı Programı"
+
+msgid "Serial &Terminal"
+msgstr "Seri ve Terminal"
+
+msgid "Serial Terminal"
+msgstr "Seri Terminal"
+
+msgid "Data"
+msgstr "Veri"
+
+msgid "Command"
+msgstr "Komut"
+
+msgid "System &Information"
+msgstr "Sistem ve Bilgiler"
+
+msgid "&Reboot Device"
+msgstr "&Cihazı Yeniden Başlat"
+
+msgid "&Soft Reboot..."
+msgstr "&Yumuşak Yeniden Başlatma..."
+
+msgid "&Hard Reboot..."
+msgstr "&Tam Yeniden Başlatma..."
+
+msgid "Show Serial &Number..."
+msgstr "Seri ve Numarayı Göster..."
+
+msgid "Update &Firmware..."
+msgstr "Yazılımı &Güncelle..."
+
+msgid "&Help"
+msgstr "&Yardım"
+
+msgid "&Website"
+msgstr "&Web sitesi"
+
+msgid "&Help Desk"
+msgstr "&Yardım Masası"
+
+msgid "Report a &Bug"
+msgstr "&Hata Bildir"
+
+msgid "Bug Report"
+msgstr "Hata Raporu"
+
+msgid "E-mail Address (optional):"
+msgstr "E-posta Adresi (isteğe bağlı):"
+
+msgid "&Send"
+msgstr "&Gönder"
+
+msgid "Send &Feedback"
+msgstr "&Geri Bildirim Gönder"
+
+msgid "Feedback Form"
+msgstr "Geri Bildirim Formu"
+
+msgid "U.S. &Patents"
+msgstr "ABD ve Patentler"
+
+msgid "&About {0}"
+msgstr "&Hakkında {0}"
+
+msgid "About {0}"
+msgstr "{0} hakkında"
+
+#. Connect dialog
+msgid "Connect"
+msgstr "Bağla"
+
+msgid "Device:"
+msgstr "Cihaz:"
+
+msgid "Rename..."
+msgstr "Yeniden isimlendir..."
+
+#. Connect dialog Rename Device
+msgid "Rename Device"
+msgstr "Cihazı Yeniden Adlandır"
+
+msgid "New Name:"
+msgstr "Yeni Ad:"
+
+#. toolbar
+msgid "Connect and &Download Settings"
+msgstr "Bağlanma ve &İndirme Ayarları"
+
+msgid "&Upload Settings to Device"
+msgstr "&Ayarları Cihaza Yükle"
+
+msgid "Device &Monitor"
+msgstr "Cihaz ve Monitör"
+
+msgid "{0} connected on USB."
+msgstr "{0} USB'ye bağlandı."
+
+msgid "Downloading Settings"
+msgstr "Ayarlar İndiriliyor"
+
+msgid "Uploading Settings"
+msgstr "Ayarları Yükleme"
+
+msgid "Verifying Settings"
+msgstr "Ayarları Doğrulama"
+
+#. General tab
+msgid "General"
+msgstr "Genel"
+
+msgid "My DNA"
+msgstr "Benim DNA'm"
+
+msgid "Manufacturer:"
+msgstr "Üretici:"
+
+msgid "Model:"
+msgstr "Modeli:"
+
+msgid "History:"
+msgstr "Geçmiş:"
+
+msgid "Get Information"
+msgstr "Bilgi Al"
+
+msgid "{0} can get information online about your mod."
+msgstr "{0}, modunuz hakkında çevrimiçi bilgi alabilir."
+
+msgid "Restore Defaults"
+msgstr "Varsayılanları Geri Yükle"
+
+msgid "Profile {0}"
+msgstr "Profil {0}"
+
+msgid "Name:"
+msgstr "İsim:"
+
+msgid "Custom Screen:"
+msgstr "Özel Ekran:"
+
+msgid "Settings"
+msgstr "Ayarlar"
+
+msgid "Power:"
+msgstr "Güç:"
+
+msgid "Temperature:"
+msgstr "Sıcaklık:"
+
+msgid "Off"
+msgstr "Kapalı"
+
+msgid "Ohms Locked"
+msgstr "Ohm Kilitli"
+
+msgid "If you connect a temperature-sensing coil..."
+msgstr "Eğer sıcaklık algılayan bir coil (TC) bağlarsanız..."
+
+msgid "Coil Material:"
+msgstr "CoilTel Türü:"
+
+msgid "Nickel 200"
+msgstr "Nikel 200"
+
+msgid "Custom"
+msgstr "Özel"
+
+msgid "Material Profile:"
+msgstr "Tel Türü Profili:"
+
+msgid "Move/Resize"
+msgstr "Taşı/Yeniden Boyutlandır"
+
+msgid "Split"
+msgstr "Böl"
+
+msgid "Delete"
+msgstr "Sil"
+
+msgid "Set X"
+msgstr "X'i ayarla"
+
+msgid "X value:"
+msgstr "X değeri:"
+
+msgid "Set Y"
+msgstr "Y'yi ayarla"
+
+msgid "Y value:"
+msgstr "Y değeri:"
+
+msgid "Custom Materials"
+msgstr "Özel Tel Türleri"
+
+msgid "Load CSV..."
+msgstr "CSV'yi yükle..."
+
+msgid "Save CSV..."
+msgstr "CSV'yi kaydet..."
+
+msgid "Label..."
+msgstr "Etiket..."
+
+msgid "Special"
+msgstr "Özel"
+
+msgid "Reduce Number of Points..."
+msgstr "Puan Sayısını Azaltın..."
+
+msgid "Temperature Coefficient of Resistance (Approximation)..."
+msgstr "Direnç Sıcaklık Katsayısı (Yaklaşık)..."
+
+msgid "Preheat Power:"
+msgstr "Ön Isıtma Gücü:"
+
+msgid "Preheat Punch:"
+msgstr "Ön Isıtma Şiddeti:"
+
+msgid "Soft"
+msgstr "Yumuşak"
+
+msgid "Hard"
+msgstr "Sert"
+
+msgid "Preheat Time Limit:"
+msgstr "Ön Isıtma Süresi Sınırı:"
+
+msgid "Atomizer Analyzer"
+msgstr "Atomizer Analizi"
+
+msgid "{0} can be used to analyze your atomizer's resistance stability."
+msgstr "{0} atomizerin direnç stabilitesini analiz etmek için kullanılabilir."
+
+#. Theme tab
+msgid "Theme"
+msgstr "Tema"
+
+msgid "Load Theme..."
+msgstr "Temayı Yükle..."
+
+msgid "Save Theme..."
+msgstr "Temayı Kaydet..."
+
+msgid "Default Theme"
+msgstr "Varsayılan Tema"
+
+msgid "Custom Screens"
+msgstr "Özel Ekranlar"
+
+msgid "Screens are {0} pixels wide and {1} pixels tall."
+msgstr "Ekranlar {0} piksel genişliğinde ve {1} piksel yüksekliğindedir."
+
+msgid "Capture..."
+msgstr "Yakala..."
+
+msgid "Load..."
+msgstr "Yükle..."
+
+msgid "Save..."
+msgstr "Kaydetmek..."
+
+msgid "Default"
+msgstr "Varsayılan"
+
+msgid "Welcome (Primary):"
+msgstr "Hoş Geldiniz (Birincil):"
+
+msgid "Welcome (Secondary):"
+msgstr "Hoş Geldiniz (İkincil):"
+
+msgid "Normal Mode:"
+msgstr "Normal Mod:"
+
+msgid "Stealth Mode:"
+msgstr "Gizli Mod:"
+
+msgid "New Coil Yes/No:"
+msgstr "Yeni Coil Evet/Hayır:"
+
+msgid "Hold To Lock Ohms:"
+msgstr "Ohm'u Kilitlemek İçin Basılı Tutun:"
+
+msgid "Hold To Unlock Ohms:"
+msgstr "Ohm'un Kilidini Açmak İçin Basılı Tutun:"
+
+msgid "Power Locked Hold Up Down:"
+msgstr "Güç Kilitli Yukarı+Aşağı Basılı Tut:"
+
+msgid "Locked Click 5X:"
+msgstr "Kilitli 5 Kez Bas:"
+
+msgid "Hold To Change Temp:"
+msgstr "Sıcaklığı Değiştirmek İçin Basılı Tutun:"
+
+msgid "Kanthal Max Power:"
+msgstr "Kanthal Maksimum Gücü:"
+
+msgid "Show Message"
+msgstr "Mesajı Göster"
+
+msgid "Don't Show"
+msgstr "Gösterme"
+
+msgid "Temperature Protected:"
+msgstr "Sıcaklık Koruması:"
+
+msgid "Show Temperature"
+msgstr "Sıcaklığı Göster"
+
+msgid "Too Hot:"
+msgstr "Çok Sıcak:"
+
+msgid "Shorted:"
+msgstr "Kısa devre:"
+
+msgid "Check Atomizer:"
+msgstr "Atomizeri kontrol edin:"
+
+msgid "Ohms Too Low:"
+msgstr "Ohm Çok Düşük:"
+
+msgid "Ohms Too High:"
+msgstr "Ohm Çok Yüksek:"
+
+msgid "Check Battery:"
+msgstr "Pili Kontrol Edin:"
+
+msgid "Weak Battery:"
+msgstr "Zayıf Pil:"
+
+msgid "Imbalanced Battery:"
+msgstr "Piller Dengesiz:"
+
+#. Screen tab
+msgid "Screen"
+msgstr "Ekran"
+
+msgid "Display"
+msgstr "Görüntüle"
+
+msgid "Orientation:"
+msgstr "Oryantasyon:"
+
+msgid "Left"
+msgstr "Sol"
+
+msgid "Right"
+msgstr "Sağ"
+
+msgid "Battery Meter:"
+msgstr "Pil Ölçer:"
+
+msgid "On Default Screens"
+msgstr "Varsayılan Ekranlarda"
+
+msgid "On Main Screen Only"
+msgstr "Yalnızca Ana Ekranda"
+
+msgid "On All Screens"
+msgstr "Tüm Ekranlarda"
+
+msgid "Error Flashes:"
+msgstr "Hata Yanıp Sönüyor:"
+
+msgid "{0:0.0} s error, {1:0.0} s status"
+msgstr "{0:0.0} sn. hata, {1:0.0} sn. durum"
+
+msgid "Show error only."
+msgstr "Yalnızca hatayı göster."
+
+msgid "Fields"
+msgstr "Alanlar"
+
+msgid "Default Field {0}:"
+msgstr "Varsayılan Alan {0}:"
+
+msgid "Ohms"
+msgstr "Ohm"
+
+msgid "Ohms (Standard)"
+msgstr "Ohm (Standart)"
+
+msgid "Voltage"
+msgstr "Gerilim"
+
+msgid "Voltage (Standard)"
+msgstr "Gerilim (Standart)"
+
+msgid "Temperature"
+msgstr "Sıcaklık"
+
+msgid "Temperature (Standard)"
+msgstr "Sıcaklık (Standart)"
+
+msgid "Battery Charge %"
+msgstr "Pil Şarjı%"
+
+msgid "Battery Charge Wh"
+msgstr "Pil Şarjı Wh"
+
+msgid "USB Power"
+msgstr "USB Gücü"
+
+msgid "USB Current"
+msgstr "USB Akımı"
+
+msgid "USB Current (Standard)"
+msgstr "USB Akımı (Standart)"
+
+msgid "USB Voltage"
+msgstr "USB Gerilimi"
+
+msgid "Battery Pack"
+msgstr "Pil Paketi"
+
+msgid "Battery Cell {0}"
+msgstr "Pil Hücresi {0}"
+
+msgid "Current"
+msgstr "Akım"
+
+msgid "Board Temperature"
+msgstr "Kart Sıcaklığı"
+
+msgid "Room Temperature"
+msgstr "Oda Sıcaklığı"
+
+msgid "Puff Count"
+msgstr "Puf Sayısı"
+
+msgid "Last Energy"
+msgstr "Son Enerji"
+
+msgid "Last Power"
+msgstr "Son Güç"
+
+msgid "Last Temperature"
+msgstr "Son Sıcaklık"
+
+msgid "Last Time"
+msgstr "Son Çekim Süresi"
+
+msgid "Charging Field {0}:"
+msgstr "Şarj Alanı {0}:"
+
+msgid "Brightness"
+msgstr "Parlaklık"
+
+msgid "Firing Brightness:"
+msgstr "Ateşleme Parlaklığı:"
+
+msgid "Fade to..."
+msgstr "Solmaya..."
+
+msgid "Set to..."
+msgstr "Şuna ayarla."
+
+msgid "Temporarily set to..."
+msgstr "Geçici olarak ayarlandı..."
+
+msgid "Do not change."
+msgstr "Değiştirmeyin."
+
+msgid "Screen active after puff."
+msgstr "Çekim sonrası ekran açık."
+
+msgid "Screen off after puff."
+msgstr "Çekim sonrası ekran kapalı."
+
+msgid "No effect on idle state."
+msgstr "Boşta durumuna etkisi yoktur."
+
+msgid "Active Brightness:"
+msgstr "Aktif Parlaklık:"
+
+msgid "Active Time:"
+msgstr "Aktif Süre:"
+
+msgid "Idle Brightness:"
+msgstr "Bekleme Parlaklığı:"
+
+msgid "Idle Time:"
+msgstr "Bekleme Süresi:"
+
+msgid "Charging Brightness:"
+msgstr "Şarj Parlaklığı:"
+
+msgid "Fade-in Time:"
+msgstr "Ekran Açılış Efekti:"
+
+msgid "Fade-out Time:"
+msgstr "Kararma Süresi:"
+
+#. Mod tab
+msgid "Mod"
+msgstr "Mod"
+
+msgid "Battery"
+msgstr "Pil"
+
+msgid "Type:"
+msgstr "Tip:"
+
+msgid "Lithium Polymer"
+msgstr "Lityum Polimer"
+
+msgid "LiFePO4"
+msgstr "LiFePO4"
+
+msgid "Power Supply"
+msgstr "Güç Kaynağı"
+
+msgid "Capacity:"
+msgstr "Kapasite:"
+
+msgid "{0}-cell"
+msgstr "{0} pilli"
+
+msgid "Watt-Hour Calculator"
+msgstr "Watt-Saat Hesaplayıcı"
+
+msgid "Cell Soft Cutoff:"
+msgstr "Güç Kısma Voltajı:"
+
+msgid "Charging Mode:"
+msgstr "Şarj Modu:"
+
+msgid "Maximize Puffs"
+msgstr "Çekim Sayısını Maksimize Et"
+
+msgid "Maximize Recharges"
+msgstr "Pil Ömrünü Maksimize Et"
+
+msgid "Discharge Profile:"
+msgstr "Deşarj Profili:"
+
+msgid "Battery Analyzer"
+msgstr "Pil Analizi"
+
+msgid ""
+"{0} can be used to analyze your battery's capacity and discharge profile."
+msgstr ""
+"{0}, pilinizin kapasitesini ve deşarj profilini analiz etmek için "
+"kullanılabilir."
+
+msgid "Electrical"
+msgstr "Elektrik"
+
+msgid "Kanthal Power Limit:"
+msgstr "Kanthal Güç Sınırı:"
+
+msgid "Mod Resistance:"
+msgstr "Mod Direnci:"
+
+msgid "Ohm Lock Range: ±"
+msgstr "Ohm Kilit Aralığı: ±"
+
+msgid "Mechanical"
+msgstr "Mekanik"
+
+msgid "Up/Down Buttons:"
+msgstr "Yukarı/Aşağı Düğmeleri:"
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "Swapped"
+msgstr "Pil Değişti"
+
+msgid "Thermal"
+msgstr "Termal"
+
+msgid "Case Analyzer"
+msgstr "Kasa Analizi"
+
+msgid "{0} can be used to analyze your case's thermal properties."
+msgstr "{0}, kasanızın termal özelliklerini analiz etmek için kullanılabilir."
+
+#. Research tab
+msgid "Research"
+msgstr "Araştırma"
+
+msgid "Data Acquisition"
+msgstr "Veri Toplama"
+
+msgid "Serial Output Format:"
+msgstr "Seri Çıkış Formatı:"
+
+msgid "Plain Text Serial"
+msgstr "Düz Metin Seri"
+
+msgid "CSV (Excel)"
+msgstr "CSV (Excel)"
+
+msgid "Experimental Setup"
+msgstr "Deneysel Kurulum"
+
+msgid "Coil Resistance:"
+msgstr "Coil Direnci:"
+
+msgid "Automatic"
+msgstr "Otomatik"
+
+msgid "Locked"
+msgstr "Kilitli"
+
+msgid "Temperature Limit:"
+msgstr "Sıcaklık Limiti:"
+
+msgid "Configurable"
+msgstr "Yapılandırılabilir"
+
+msgid "Puff Limit:"
+msgstr "Puff Limiti:"
+
+msgid "Disabled"
+msgstr "Devre Dışı"
+
+msgid "Enabled"
+msgstr "Etkinleştirilmiş"
+
+msgid "Energy Limit:"
+msgstr "Enerji Sınırı:"
+
+msgid "Time Limit:"
+msgstr "Zaman Sınırı:"
+
+msgid "Apply Research Seal"
+msgstr "Araştırma Mührünü Uygula"
+
+msgid "Break Research Seal"
+msgstr "Araştırma Mührünü Kır"
+
+msgid "Check Research Seal"
+msgstr "Araştırma Mühürünü Kontrol Edin"
+
+msgid "Reset Statistics"
+msgstr "İstatistikleri Sıfırla"
+
+#. Device Monitor
+msgid "Device Monitor"
+msgstr "Cihaz Monitörü"
+
+msgid "Live View"
+msgstr "Canlı Görünüm"
+
+msgid "USB Power:"
+msgstr "USB Gücü:"
+
+msgid "USB Current:"
+msgstr "USB Akımı:"
+
+msgid "USB Voltage:"
+msgstr "USB Gerilimi(Voltaj):"
+
+msgid "Charge:"
+msgstr "Şarj:"
+
+msgid "Pack:"
+msgstr "Pil Bloğu:"
+
+msgid "Cell {0}:"
+msgstr "{0} Hücre:"
+
+msgid "Current Puff"
+msgstr "Mevcut Puff"
+
+msgid "Power Set:"
+msgstr "Güç Ayarı:"
+
+msgid "Temperature Set:"
+msgstr "Sıcaklık Ayarı:"
+
+msgid "Current:"
+msgstr "Akım:"
+
+msgid "Voltage:"
+msgstr "Gerilim(Voltaj):"
+
+msgid "Cold Ohms:"
+msgstr "Soğuk Direnç:"
+
+msgid "Live Ohms:"
+msgstr "Canlı Ohm:"
+
+msgid "Room Temp:"
+msgstr "Oda Sıcaklığı:"
+
+msgid "Board Temp:"
+msgstr "Kart Sıcaklığı:"
+
+msgid "Statistics"
+msgstr "İstatistikler"
+
+msgid "Since Reset"
+msgstr "Sıfırlamadan Beri"
+
+msgid "Total"
+msgstr "Toplam"
+
+msgid "Last Puff"
+msgstr "Son Puf"
+
+msgid "Mean"
+msgstr "Anlam"
+
+msgid "Std. Dev."
+msgstr "Standart Sapma."
+
+msgid "Puffs:"
+msgstr "Puflar:"
+
+msgid "Temp-Protected:"
+msgstr "Sıcaklık Koruması:"
+
+msgid "Energy:"
+msgstr "Enerji:"
+
+msgid "Time:"
+msgstr "Zaman:"
+
+msgid "&Record..."
+msgstr "&Kayıt..."
+
+msgid "Graph &Options"
+msgstr "Grafik &Seçenekler"
+
+msgid "&Clear Graph"
+msgstr "&Grafiği Temizle"
+
+msgid "&Save Graph..."
+msgstr "&Grafiği Kaydet..."
+
+msgid "Set &Time Scale..."
+msgstr "&Zaman Ölçeğini Ayarla..."
+
+msgid "Puf&f..."
+msgstr "&Çekim..."
+
+msgid "{0} second"
+msgid_plural "{0} seconds"
+msgstr[0] "{0} saniye"
+msgstr[1] "{0} saniye"
+
+msgid "&Custom..."
+msgstr "&Özel..."
+
+msgid "Puff"
+msgstr "Puff"
+
+msgid "Duration (seconds):"
+msgstr "Süre (saniye):"
+
+msgid "Set &Power..."
+msgstr "&Güç Ayarla..."
+
+msgid "Set Power"
+msgstr "Gücü Ayarla"
+
+msgid "Power (W):"
+msgstr "Güç (W):"
+
+msgid "Set &Temperature..."
+msgstr "&Sıcaklık Ayarla..."
+
+msgid "Set Temperature"
+msgstr "Sıcaklığı Ayarla"
+
+msgid "Units:"
+msgstr "Birimler:"
+
+msgid "&Disable Temperature Protection"
+msgstr "&Sıcaklık Korumasını Devre Dışı Bırak"
+
+msgid "&Research"
+msgstr "&Araştırma"
+
+msgid "Enter Temperature &Monitoring Mode..."
+msgstr "Sıcaklık &İzleme Moduna Gir..."
+
+msgid "&Diagnostics"
+msgstr "&Teşhis"
+
+msgid "Set &Profile..."
+msgstr "&Profili Ayarla..."
+
+msgid "Set Profile"
+msgstr "Profili Ayarla"
+
+msgid "Set &Charge Estimate..."
+msgstr "&Şarj Tahminini Ayarla..."
+
+msgid "&Set USB Current Limit..."
+msgstr "&USB Akım Sınırını Ayarla..."
+
+msgid "&Reset USB Current Limit"
+msgstr "&USB Akım Sınırını Sıfırla"
+
+msgid "&Advanced"
+msgstr "&Gelişmiş"
+
+msgid "Perform USB &Recovery Charging..."
+msgstr "USB &Kurtarma Şarjını Başlat..."
+
+msgid "Reset &Statistics"
+msgstr "&İstatistikleri Sıfırla"
+
+msgid "Resets: {0}"
+msgstr "Sıfırlama Sayısı: {0}"
+
+msgid "Version: {0}"
+msgstr "Sürüm: {0}"
+
+#. added in 2015-07-29
+#. Device Monitor
+msgid "Mode: {0}"
+msgstr "Mod: {0}"
+
+msgid "Stealth"
+msgstr "Gizlilik"
+
+msgid "Power Locked"
+msgstr "Güç Kilitli"
+
+msgid "Buttons:"
+msgstr "Düğmeler:"
+
+msgid "None"
+msgstr "Hiçbiri"
+
+msgid "Fire"
+msgstr "Ateş"
+
+msgid "Profile: {0}"
+msgstr "Profil: {0}"
+
+#. added in 2015-08-07
+#. Tools->Update Firmware
+msgid "New firmware is available!"
+msgstr "Yeni ürün yazılımı mevcut!"
+
+msgid "Click here to update your device to {0}."
+msgstr "Cihazınızı {0} sürümüne güncellemek için burayı tıklayın."
+
+msgid "Please Wait"
+msgstr "Lütfen bekleyin"
+
+msgid "Updating Core Firmware"
+msgstr "Çekirdek Yazılım Güncelleniyor"
+
+msgid "Updating Firmware"
+msgstr "Yazılım Güncelleniyor"
+
+msgid "New Firmware"
+msgstr "Yeni Yazılım"
+
+msgid "New firmware is going to be uploaded."
+msgstr "Yeni Yazılım yüklenecek."
+
+msgid "Before clicking OK, please make sure that the device is idle."
+msgstr ""
+"Tamam'a tıklamadan önce lütfen cihazın boşta(beklemede) olduğundan emin olun."
+
+msgid "Firmware update complete."
+msgstr "Yazılım güncellemesi tamamlandı."
+
+#. added in 2015-08-07
+#. Tools->Production Utility
+msgid "Production Utility"
+msgstr "Üretim Aracı"
+
+msgid "&Save..."
+msgstr "&Kaydet..."
+
+msgid "Browse..."
+msgstr "Göz at..."
+
+msgid "Model Name:"
+msgstr "Model Adı:"
+
+msgid "Firmware File:"
+msgstr "Yazılım Dosyası:"
+
+msgid "Settings File:"
+msgstr "Ayarlar Dosyası:"
+
+msgid "&Program && Test"
+msgstr "&Program && Test"
+
+#. added in 2015-08-19
+#. messages
+msgid "Invalid Value"
+msgstr "Geçersiz Değer"
+
+msgid "Value must be a number."
+msgstr "Değer bir sayı olmalıdır."
+
+#. Connect
+msgid ""
+"Unable to open a connection.\n"
+"Another program may be using the device."
+msgstr ""
+"Bağlantı açılamıyor.\n"
+"Cihazı başka bir program kullanıyor olabilir."
+
+#. Mod tab
+msgid "Case Cooling Time Constant:"
+msgstr "Kasa Soğutma Süresi Sabiti:"
+
+msgid "Case Heating Time Constant:"
+msgstr "Kasa Isıtma Süresi Sabiti:"
+
+msgid "Case USB Charge Temperature Rise:"
+msgstr "Kasa USB Şarj Sıcaklığı Artışı:"
+
+msgid "Minimum Ambient Temperature:"
+msgstr "Minimum Ortam Sıcaklığı:"
+
+msgid "Maximum Ambient Temperature:"
+msgstr "Maksimum Ortam Sıcaklığı:"
+
+#. Battery Analyzer
+msgid "What power would you like to conduct the test at?"
+msgstr "Testi hangi güçte yapmak istersiniz?"
+
+#. Case Analyzer
+msgid "What is the room temperature (°F)?"
+msgstr "Oda sıcaklığı nedir (°F)?"
+
+#. Production Utility
+msgid "Login Required"
+msgstr "Giriş Gerekli"
+
+msgid "You must be logged in to use the production utility."
+msgstr "Üretim aracını kullanmak için oturum açmanız gerekir."
+
+msgid "Select the latest firmware to have it loaded onto the device."
+msgstr "Cihaza yüklenmesi için en son ürün yazılımını seçin."
+
+msgid ""
+"Select your mod's default settings file. It can be reloaded by clicking "
+"Restore Defaults."
+msgstr ""
+"Modunuzun varsayılan ayarlar dosyasını seçin. Varsayılanları Geri Yükle'ye "
+"tıklayarak yeniden yükleyebilirsiniz."
+
+msgid "Functional Tests"
+msgstr "Fonksiyonel Testler"
+
+msgid "Fire Test"
+msgstr "Ateşleme Testi"
+
+msgid ""
+"Checks that the device can fire and read Ohms properly. Attach a resistor or "
+"non-temperature coil."
+msgstr ""
+"Cihazın ateşleme yapabildiğini ve Ohm değerini düzgün okuduğunu kontrol "
+"eder. Bir direnç veya Sıcaklık Kontrolsüz(TC) coil takın."
+
+msgid "Fire Time:"
+msgstr "Ateşleme Süresi:"
+
+msgid "Fire Power:"
+msgstr "Ateşleme Gücü:"
+
+msgid "Expected Cold Resistance:"
+msgstr "Beklenen Soğuk Direnç:"
+
+msgid "Battery Test"
+msgstr "Pil Testi"
+
+msgid ""
+"Makes sure the battery cells have reasonable voltages and can be charged."
+msgstr ""
+"Pil pillerinin makul voltajlara sahip olduğundan ve şarj edilebildiğinden "
+"emin olun."
+
+msgid "Minimum Cell Voltage:"
+msgstr "Minimum Pil Gerilimi(Voltajı):"
+
+msgid "Maximum Cell Imbalance:"
+msgstr "Maksimum Hücre Dengesizliği:"
+
+msgid "Wait for USB Current to Rise Above:"
+msgstr "USB Akımının Yukarıya Çıkmasını Bekleyin:"
+
+msgid "Production"
+msgstr "Üretim"
+
+msgid "No actions."
+msgstr "Eylem yok."
+
+msgid "Fire test failed."
+msgstr "Ateşleme testi başarısız oldu."
+
+msgid "Battery test failed."
+msgstr "Pil testi başarısız oldu."
+
+msgid "Production actions succeeded."
+msgstr "Üretim eylemleri başarılı oldu."
+
+#. added in 2015-08-21
+#. Theme tab
+msgid "Hide Ohms on Custom"
+msgstr "Özel Modda Ohm'u Gizle"
+
+msgid "Show Ohms on Custom"
+msgstr "Özel Modda Ohm'u Göster"
+
+msgid "New Coil"
+msgstr "Yeni Coil"
+
+msgid "Old Coil"
+msgstr "Eski Coil"
